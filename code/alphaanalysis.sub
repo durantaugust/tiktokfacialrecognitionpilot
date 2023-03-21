@@ -1,0 +1,9 @@
+executable = /home/kekpenyo/conda_wrapper.sh
+arguments  = alphaanalysis.py
+
+output     = alphaanalysis.out
+error      = alphaanalysis.err
+log        = alphaanalysis.log
+getenv     = True
+
+queue
